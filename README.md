@@ -1,3 +1,4 @@
+```text
 # !/usr/bin/python
 # RP - by John Paramadilok (2025.06)
 # This script securely stores recovery phrases and codes.
@@ -32,4 +33,4 @@
 #            > mode 0 uses the first eight char of sha1 (default)
 #            > mode 1 uses the first eight char of sha256
 #            > mode 2 uses the first ten char of sha512
-#####################################################################
+#####################################################################'''
